@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning Node.js and React
 - 💞️ I’m looking to collaborate on diferent tecnology
-- 📫 My email is cristobal.bravo1601@alumnos.ubiobio.cl
+- 📫 My email is cristobal.bravo.ch.personal@gmail.com
 
 <!---
 CristobalBravo/CristobalBravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
